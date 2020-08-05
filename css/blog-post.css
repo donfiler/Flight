@@ -1,0 +1,21 @@
+/*!
+ * Start Bootstrap - Blog Post (https://startbootstrap.com/templates/blog-post)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-blog-post/blob/master/LICENSE)
+ */
+
+body {
+    padding-top: 56px;
+}
+
+p {
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Rufina', serif;
+}
